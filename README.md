@@ -1,6 +1,6 @@
 
 # Overview
-SimpleNote is a lightweight and user-friendly note-taking application designed to help you capture and organize your thoughts, ideas, and important information. With its clean and intuitive interface, you can quickly jot down notes, create to-do lists, and set reminders, making it the perfect tool for staying organized and productive.
+MyNotes is a lightweight and user-friendly note-taking application designed to help you capture and organize your thoughts, ideas, and important information. With its clean and intuitive interface, you can quickly jot down notes, create to-do lists, and set reminders, making it the perfect tool for staying organized and productive.
 
 # Features
 - User’s account

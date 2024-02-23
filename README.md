@@ -82,7 +82,6 @@ Store task’s contents in Firebase Realtime Database
   - Transform text into audible voice 
   - Write a note using hand in a drawable board
   - Add image, video, pdf along with text
-![image](https://github.com/Hasibul006/MyNotes/assets/94055142/e86979d5-0bf7-46e0-95e5-5000eecfc488)
 
 
 
